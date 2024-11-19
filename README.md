@@ -1,6 +1,6 @@
 # kine-migrate
 
-Migrate kine data from one database to another
+Migrate [kine](https://github.com/k3s-io/kine) (the [K3s](https://k3s.io) database) data from one supported backend / database to another
 
 ## Building
 
